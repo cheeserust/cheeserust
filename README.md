@@ -72,6 +72,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ### 📬 Contact
-&nbsp;&nbsp;&nbsp;📨 Email: jaewi96@gmail.com<br/>
+&nbsp;&nbsp;&nbsp;📨 Email: - <br/>
 &nbsp;&nbsp;&nbsp;📝 Blog: [kimtortilla.tistory.com](https://kimtortilla.tistory.com/)<br/>
 &nbsp;&nbsp;&nbsp;🌐 Portfolio: *준비 중*<br/>
