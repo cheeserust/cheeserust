@@ -26,13 +26,23 @@
 ### 📂 Projects
 
 #### 🥎 [AI Pitching Analysis System](https://github.com/Hanjiho0316/AI_Pitching_analysis_system)
-YOLO Pose 기반 투구/타격 폼 분석 웹 서비스. 1D CNN + 잔차 연결로 시계열 관절 데이터를 학습하고 TFLite로 경량화해 배포.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+<br/>YOLO Pose 기반 투구/타격 폼 분석 웹 서비스. 1D CNN + 잔차 연결로 시계열 관절 데이터를 학습하고 TFLite로 경량화해 배포.
 
 #### 🔥 [the-Photatos](https://github.com/sangaje/the-Photatos)
-STM32F411 기반 자율 소화 로봇. 4채널 IR 센서 + 적응형 칼만 필터로 화염 방향을 추정하고 스테퍼/서보로 노즐을 자동 조준.
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<br/>STM32F411 기반 자율 소화 로봇. 4채널 IR 센서 + 적응형 칼만 필터로 화염 방향을 추정하고 스테퍼/서보로 노즐을 자동 조준.
 
 #### 🐢 [mini_project_turtle_follows](https://github.com/cheeserust/mini_project_turtle_follows)
-ROS2 학습 미니 프로젝트.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+<br/>ROS2 학습 미니 프로젝트.
 
 ---
 
@@ -41,7 +51,6 @@ ROS2 학습 미니 프로젝트.
 **Languages**
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **Robotics / Embedded**
