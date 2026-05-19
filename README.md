@@ -11,8 +11,8 @@
 
 | 기간 | 활동 |
 | --- | --- |
-| 2025 ~ | **대한상공회의소 서울기술교육센터** — 로봇 AI SW 개발자 과정 |
-| 2015 ~ 2022 | **University of British Columbia** — Bachelor of Health and Exercise Science 졸업 |
+| 2025.12 ~ | **대한상공회의소 서울기술교육센터** — 로봇 AI SW 개발자 과정 |
+| 2015.09 ~ 2022.04 | **University of British Columbia** — Bachelor of Health and Exercise Science 졸업 |
 
 ---
 
