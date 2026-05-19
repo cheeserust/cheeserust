@@ -30,7 +30,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-<br/>YOLO Pose 기반 투구/타격 폼 분석 웹 서비스. 1D CNN + 잔차 연결로 시계열 관절 데이터를 학습하고 TFLite로 경량화해 배포.
+<br/>YOLOv8n-Pose 기반 투구/타격 폼 분석 서비스
 
 #### 🔥 [the-Photatos](https://github.com/sangaje/the-Photatos)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
