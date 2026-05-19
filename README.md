@@ -25,7 +25,7 @@
 
 ### 📂 Projects
 
-#### 🥎 [AI Pitching Analysis System](https://github.com/Hanjiho0316/AI_Pitching_analysis_system)
+#### ⚾ [AI Pitching Analysis System](https://github.com/Hanjiho0316/AI_Pitching_analysis_system)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
@@ -43,6 +43,9 @@
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 <br/>ROS2 학습 미니 프로젝트.
+
+#### 🔧 [PLC_mini_Project](https://holistic-sock-964.notion.site/PLC-3007f8020a7280c882e4dad6cddd8cef?source=copy_link)<br/>
+PLC 미니 프로젝트 → 소재별 자동/수동 적재 및 배출과 비상정지
 
 ---
 
