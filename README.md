@@ -29,6 +29,7 @@
 ![ROS2:Jazzy](https://img.shields.io/badge/ROS2-Jazzy-blue?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-3B4252?style=flat-square&logo=huggingface)
 <br/> 세 대의 로봇을 제어하여 폭발물을 탐색하고 ROBOTIS-OMX 로 해체하는 로봇 다중제어 시스템
 
