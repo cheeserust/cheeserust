@@ -82,8 +82,9 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-3B4252?style=flat-square&logo=huggingface)
 
 ### 📬 Contact
-&nbsp;&nbsp;&nbsp;📨 Email: - <br/>
+&nbsp;&nbsp;&nbsp;📨 Email: - jaewi.kim055@gmail.com<br/>
 &nbsp;&nbsp;&nbsp;📝 Blog: [kimtortilla.tistory.com](https://kimtortilla.tistory.com/)<br/>
 &nbsp;&nbsp;&nbsp;🌐 Portfolio: *준비 중*<br/>
