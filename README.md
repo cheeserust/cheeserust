@@ -54,7 +54,6 @@
 
 #### 🔧 [PLC_mini_Project](https://holistic-sock-964.notion.site/PLC-3007f8020a7280c882e4dad6cddd8cef?source=copy_link)<br/>
 ![PLC](https://camo.githubusercontent.com/92540e16c2a217f253227949e770bac73384e10bca19823d9ad201abe2902013/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f504c432d3334384133413f7374796c653d666f722d7468652d6261646765266c6f676f3d637075266c6f676f436f6c6f723d7768697465)
-
 <br/>PLC 미니 프로젝트 → 소재별 자동/수동 적재 및 배출과 비상정지
 
 ---
