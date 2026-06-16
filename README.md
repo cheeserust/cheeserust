@@ -29,7 +29,7 @@
 ![ROS2:Jazzy](https://img.shields.io/badge/ROS2-Jazzy-blue)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-3B4252?style=flat&logo=huggingface&logoColor=)
+![HuggingFace]([https://img.shields.io/badge/-HuggingFace-3B4252?style=flat&logo=huggingface&logoColor=](https://img.shields.io/badge/-HuggingFace-3B4252?style=for-the-badge&logo=huggingface&logoColor=))
 <br/> 세 대의 로봇을 제어하여 폭발물을 탐색하고 ROBOTIS-OMX 로 해체하는 로봇 다중제어 시스템
 
 #### ⚾ [AI Pitching Analysis System](https://github.com/Hanjiho0316/AI_Pitching_analysis_system)
