@@ -25,6 +25,13 @@
 
 ### 📂 Projects
 
+#### [ROScue - 폭발물 탐색/해체 로봇](https://github.com/cheeserust/ROScue)
+![ROS2:Jazzy](https://img.shields.io/badge/ROS2-Jazzy-blue)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-3B4252?style=flat&logo=huggingface&logoColor=)
+<br/> 세 대의 로봇을 제어하여 폭발물을 탐색하고 ROBOTIS-OMX 로 해체하는 로봇 다중제어 시스템
+
 #### ⚾ [AI Pitching Analysis System](https://github.com/Hanjiho0316/AI_Pitching_analysis_system)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -32,20 +39,21 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 <br/>YOLOv8n-Pose 기반 투구/타격 폼 분석 서비스
 
-#### 🔥 [the-Photatos](https://github.com/sangaje/the-Photatos)
+#### 🔥 [the-Photatos - STM32 화재진압 시스템](https://github.com/sangaje/the-Photatos)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C](https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 <br/>STM32F411 기반 자율 소화 로봇. 4채널 IR 센서 + 적응형 칼만 필터로 화염 방향을 추정하고 스테퍼/서보로 노즐을 자동 조준.
 
-#### 🐢 [mini_project_turtle_follows](https://github.com/cheeserust/mini_project_turtle_follows)
+#### 🐢 [mini_project_- turtle_follows](https://github.com/cheeserust/mini_project_turtle_follows)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 <br/>ROS2 학습 미니 프로젝트.
 
 #### 🔧 [PLC_mini_Project](https://holistic-sock-964.notion.site/PLC-3007f8020a7280c882e4dad6cddd8cef?source=copy_link)<br/>
-PLC 미니 프로젝트 → 소재별 자동/수동 적재 및 배출과 비상정지
+![PLC](https://camo.githubusercontent.com/92540e16c2a217f253227949e770bac73384e10bca19823d9ad201abe2902013/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f504c432d3334384133413f7374796c653d666f722d7468652d6261646765266c6f676f3d637075266c6f676f436f6c6f723d7768697465)
+<br/>PLC 미니 프로젝트 → 소재별 자동/수동 적재 및 배출과 비상정지
 
 ---
 
