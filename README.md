@@ -1,9 +1,4 @@
-# 헬로람쥐
-
-### 🤖 로봇 / 자율 시스템 개발자
-
-> AI 비전과 임베디드 제어를 결합해 스스로 판단하고 움직이는 시스템을 만듭니다.
-
+# 김재위 / Jaewi Kim
 
 ---
 
@@ -13,13 +8,6 @@
 | --- | --- | --- |
 | 2025.12 ~ 2026.07 | **대한상공회의소 서울기술교육센터** | 로봇 AI SW 개발자 과정 |
 | 2015.09 ~ 2022.04 | **University of British Columbia** | Bachelor of Health and Exercise Science 졸업 |
-
----
-
-### 🌱 Currently Learning
-
-- **ROS2** — 노드/토픽 기반 분산 로봇 시스템 설계
-- **Autonomous Systems** — 센서 융합, 상태 추정, 제어 알고리즘
 
 ---
 
@@ -63,7 +51,7 @@
 
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 **AI / Vision**
 
@@ -78,7 +66,10 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-3B4252?style=flat-square&logo=huggingface)
 
+**OS**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
 ### 📬 Contact
 &nbsp;&nbsp;&nbsp;📨 Email: - jaewi.kim055@gmail.com<br/>
 &nbsp;&nbsp;&nbsp;📝 Blog: [kimtortilla.tistory.com](https://kimtortilla.tistory.com/)<br/>
-&nbsp;&nbsp;&nbsp;🌐 Portfolio: *준비 중*<br/>
