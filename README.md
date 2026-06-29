@@ -13,7 +13,7 @@
 
 ### 📂 Projects
 
-#### 현재 진행중
+### *현재 진행중*
 #### [작업자 보조용 층간 이동 로봇 (가제)](https://github.com/cheeserust/final_project)
 ![ROS2:Jazzy](https://img.shields.io/badge/ROS2-Jazzy-blue?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
