@@ -14,12 +14,12 @@
 ### 📂 Projects
 
 ### _현재 진행중_
-#### [작업자 보조용 층간 이동 로봇 (가제)](https://github.com/cheeserust/final_project)
+#### [스콜피 - 5축 로봇팔과 3지 그리퍼를 장착한 층간이동 자율주행 로봇](https://github.com/cheeserust/final_project)
 ![ROS2:Jazzy](https://img.shields.io/badge/ROS2-Jazzy-blue?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-<br/> 직접 제작한 로봇팔과 층간이동이 가능한 주행로봇 
+<br/> 직접 설계/제작한 로봇팔과 그리퍼를 장착하고 층간이동이 가능한 주행로봇 
 
 ---
 
