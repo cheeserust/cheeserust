@@ -1,5 +1,13 @@
 # 김재위 / Jaewi Kim
 
+
+하드웨어와 소프트웨어가 만나는 지점에서 일합니다. 
+<br/>레지스터를 직접 건드리는 임베디드 제어부터 ROS2 기반 멀티로봇 시스템, 딥러닝 모델 학습까지
+<br/>한 시스템의 처음과 끝을 직접 붙여 봤습니다.
+
+&nbsp;&nbsp;&nbsp;📨 Email: - jaewi.kim055@gmail.com<br/>
+&nbsp;&nbsp;&nbsp;📝 Blog: [kimtortilla.tistory.com](https://kimtortilla.tistory.com/)<br/>
+
 ---
 
 ### About Me
@@ -7,19 +15,24 @@
 | 기간 | 활동 | 주요 업무 |
 | --- | --- | --- |
 | 2025.12 ~ 2026.07 | **대한상공회의소 서울기술교육센터** | 로봇 AI SW 개발자 과정 |
-| 2015.09 ~ 2022.04 | **University of British Columbia** | Bachelor of Health and Exercise Science 졸업 |
+| 2015.09 ~ 2022.04 | **University of British Columbia** | B.S. Human Kinetics 졸업 |
 
 ---
 
 ### 📂 Projects
 
 ### _현재 진행중_
-#### [스콜피 - 5축 로봇팔과 3지 그리퍼를 장착한 층간이동 자율주행 로봇](https://github.com/cheeserust/final_project)
+#### [스콜피 - 5축 로봇팔과 3지 그리퍼를 장착한 층간이동 자율주행 로봇](https://github.com/cheeserust/Scorpy)
 ![ROS2:Jazzy](https://img.shields.io/badge/ROS2-Jazzy-blue?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-<br/> 직접 설계/제작한 로봇팔과 그리퍼를 장착하고 층간이동이 가능한 주행로봇 
+<br/> 직접 설계/제작한 로봇팔과 그리퍼를 장착하고 층간이동이 가능한 주행로봇
+- **담당**: 층간 이동 구현(ArUco + solvePnP), 거리 추정 10 - 250cm 구간 오차 < 5%
+- **성과**:
+  - 층간 이동 구현
+  - **통신 장애 디버깅**: 카메라 토픽 유실 → QoS 불일치 + 커널 UDP 버퍼 부족으로 **레이어별 진단**, `rmem_max` 증설 및 DDS 인터페이스 바인딩으로 해결
+  - FSM 기반 상태 관리 (`WAIT_BOARD → BOARDING → RIDING → EXITING → DONE`) + Action Server 인터페이스 설계
 
 ---
 
@@ -30,6 +43,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-3B4252?style=flat-square&logo=huggingface)
 <br/> 세 대의 로봇과 두 대의 ROBOTIS OMX 로봇팔을 제어하여 폭발물을 탐색하고 ROBOTIS-OMX 로 해체하는 로봇 다중제어 시스템
+- **담당**: 다중로봇 자율 주행 관제 시스템 아키텍쳐 설계
+- **성과**: 
 
 #### ⚾ [PitchType - AI 야구 동작 분석 시스템](https://github.com/Hanjiho0316/AI_Pitching_analysis_system)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -37,6 +52,12 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 <br/>YOLOv8n-Pose 기반 투구/타격 폼 분석 서비스
+- **담당**: 데이터 전처리, 모델 최적화, 실험 설계
+- **성과**:
+  - 소량 데이터 (클래스당 30 - 50개)를  L2 · SpatialDropout1D · Label Smoothing · GAP · StratifiedKFold 5-fold 를 통해 대응
+    - 정확도 ~95%
+  - 데이터 파이프라인 마이그레이션: MediaPipe → YOLOv8n-pose 정량 비교 후 전환
+  - **한국정보처리학회 ASK 2026 학술대회 논문 게재**
 
 #### 🔥 [the-Photatos - STM32 화재진압 시스템](https://github.com/sangaje/the-Photatos)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
@@ -80,6 +101,3 @@
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### 📬 Contact
-&nbsp;&nbsp;&nbsp;📨 Email: - jaewi.kim055@gmail.com<br/>
-&nbsp;&nbsp;&nbsp;📝 Blog: [kimtortilla.tistory.com](https://kimtortilla.tistory.com/)<br/>
