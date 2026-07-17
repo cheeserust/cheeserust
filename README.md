@@ -45,6 +45,9 @@
 <br/> 세 대의 로봇과 두 대의 ROBOTIS OMX 로봇팔을 제어하여 폭발물을 탐색하고 ROBOTIS-OMX 로 해체하는 로봇 다중제어 시스템
 - **담당**: 다중로봇 자율 주행 관제 시스템 아키텍쳐 설계
 - **성과**: 
+  - 무선 대역폭 제약을 아키텍쳐 재설계로 해결:
+    - PC 중앙 집중 Nav2 → 각 터틀봇 온보드 Nav2 + 도메인 격리 + 도메인 브릿지
+      - 
 
 #### ⚾ [PitchType - AI 야구 동작 분석 시스템](https://github.com/Hanjiho0316/AI_Pitching_analysis_system)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
