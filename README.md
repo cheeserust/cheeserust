@@ -23,8 +23,6 @@
 
 ### 📂 Projects
 
-
----
 #### [스콜피 - 5축 로봇팔과 3지 그리퍼를 장착한 층간이동 자율주행 로봇](https://github.com/cheeserust/Scorpy)
 ![ROS2:Jazzy](https://img.shields.io/badge/ROS2-Jazzy-blue?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
