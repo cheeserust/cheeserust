@@ -23,8 +23,6 @@
 
 ### 📂 Projects
 
-### _현재 진행중_
-
 
 ---
 #### [스콜피 - 5축 로봇팔과 3지 그리퍼를 장착한 층간이동 자율주행 로봇](https://github.com/cheeserust/Scorpy)
